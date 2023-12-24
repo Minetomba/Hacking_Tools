@@ -1,0 +1,3 @@
+StealWare.py
+
+It is malware similar to a Ransomware but instead of encrypting files and decrypting them with a password, this script deletes are recreates (The same as they were) them with a password
